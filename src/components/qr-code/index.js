@@ -1,0 +1,1 @@
+export { QrCode } from "./Qr-Code.jsx";
