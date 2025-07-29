@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      
+      <h2>QR Code Generator</h2>
     </>
   )
 }
