@@ -1,13 +1,11 @@
 import './App.css'
-import { QrCode } from '../components/qr-code'
-import { Text } from '../components/text'
+import { Card } from '../components/card'
 
 export function App() {
 
   return (
     <>
-      <QrCode />
-      <Text />
+      <Card />
     </>
   )
 }

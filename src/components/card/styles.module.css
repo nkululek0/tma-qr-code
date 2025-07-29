@@ -1,0 +1,8 @@
+.main {
+    height: max-content;
+    width: 15rem;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 0 auto
+}
