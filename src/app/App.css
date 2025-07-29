@@ -7,3 +7,7 @@
   font-family: 'Outfit', sans-serif;
   font-weight: normal;
 }
+
+:root {
+  --main-color: rgb(0, 110, 255);
+}
