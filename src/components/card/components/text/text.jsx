@@ -1,14 +1,14 @@
 import styles from "./styles.module.css"
 
-export function Text() {
+export function Text({heading, textContent}) {
     return (
         <>
             <div>
                 <h2 className={styles.heading}>
-                    Improve your front-end skills by building projects
+                    {heading}
                 </h2>
                 <p className={styles.text}>
-                    Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+                    {textContent}
                 </p>
             </div>
         </>
