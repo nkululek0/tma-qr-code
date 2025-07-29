@@ -3,7 +3,7 @@ import styles from "./styles.module.css"
 export function Text({heading, textContent}) {
     return (
         <>
-            <div>
+            <div className={styles.wrapper}>
                 <h2 className={styles.heading}>
                     {heading}
                 </h2>

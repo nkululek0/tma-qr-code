@@ -1,8 +1,9 @@
-.main {
+.wrapper {
     height: max-content;
-    width: 15rem;
+    width: min-content;
     background: #fff;
     padding: 1rem;
     border-radius: 8px;
-    margin: 0 auto
+    margin: auto;
+    margin-top: 1rem;
 }

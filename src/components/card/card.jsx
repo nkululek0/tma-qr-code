@@ -9,7 +9,7 @@ export function Card() {
 
     return (
         <>
-            <div className={styles.main}>
+            <div className={styles.wrapper}>
                 <QrCode />
                 <Text heading={cardHeading} textContent={cardTextContent}/>
             </div>
